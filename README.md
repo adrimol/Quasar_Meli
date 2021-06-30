@@ -1,9 +1,9 @@
 <h1>Operaci&oacute;n Fuego de Quasar</h1>
-<p><a href="quees">Descripci&oacute;n, desafio y consideraciones.</a></p>
-<p><a href="#comofunciona">C&oacute;mo funciona el servicio?</a></p>
-<p><a href="hosting">URL hosting del servicio</a></p>
-<p><a href="ejecutar">Como ejecutar el programa?</a></p>
-<p><a href="arquitectura">Arquitectura del servicio</a></p>
+<p><a href="https://github.com/adrimol/Quasar_Meli/blob/main/README.md#quees">Descripci&oacute;n, desafio y consideraciones.</a></p>
+<p><a href="https://github.com/adrimol/Quasar_Meli/blob/main/README.md#comofunciona">C&oacute;mo funciona el servicio?</a></p>
+<p><a href="https://github.com/adrimol/Quasar_Meli/blob/main/README.md#hosting">URL hosting del servicio</a></p>
+<p><a href="https://github.com/adrimol/Quasar_Meli/blob/main/README.md#ejecutar">Como ejecutar el programa?</a></p>
+<p><a href="https://github.com/adrimol/Quasar_Meli/blob/main/README.md#arquitectura">Arquitectura del servicio</a></p>
 <p>&nbsp;</p>
 <p id="quees"><strong>Descripci&oacute;n<br /></strong></p>
 <p><span class="fontstyle0">Han Solo ha sido recientemente nombrado General de la Alianza Rebelde y busca dar un gran golpe contra el Imperio Gal&aacute;ctico para reavivar la llama de la resistencia.<br />El servicio de inteligencia rebelde ha detectado un llamado de auxilio de una nave portacarga imperial a la deriva en un campo de asteroides. El manifiesto de la nave es ultra clasificado, pero se rumorea que transporta raciones y armamento para una legi&oacute;n entera.</span></p>
